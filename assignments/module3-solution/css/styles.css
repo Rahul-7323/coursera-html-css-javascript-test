@@ -86,3 +86,7 @@ button {
   background-color: gold !important;
   border: 2px solid black !important;
 }
+
+h4 > a {
+  font-size: inherit;
+}
