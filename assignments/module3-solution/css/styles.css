@@ -1,0 +1,88 @@
+* {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+body {
+  background: antiquewhite no-repeat center fixed;
+  background-size: cover;
+  margin-bottom: 30px;
+}
+
+.navbar {
+  background-color: rgb(197, 121, 33);
+}
+
+.navbar-brand {
+  font-size: 2.3em;
+  font-weight: 700;
+}
+
+.nav-link {
+  font-size: 1.5em;
+  color: black !important;
+  font-weight: 500;
+  text-align: center;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  border-collapse: collapse;
+  margin-top: -1px;
+  margin-bottom: -1px;
+}
+
+#dropdown-menu {
+  background-color: aliceblue;
+  padding-left: 0px;
+  padding-right: 0px;
+  max-width: 100%;
+}
+
+#page-heading {
+  margin: 20px;
+  font-weight: 700;
+}
+
+.section-title {
+  margin-top: 15px;
+}
+
+section {
+  background-color: rgb(207, 209, 188);
+  margin-left: auto;
+  margin-right: auto;
+  margin: 10px;
+  border: 1px solid black;
+}
+
+p {
+  color: black;
+  clear: both;
+  padding: 10px 20px 20px 20px;
+  margin: 0px;
+}
+
+.col-sm-12,
+.col-md-6,
+.col-lg-4,
+.col-md-12 {
+  margin: 0px;
+  padding: 0px;
+}
+
+footer {
+  margin-top: 20px;
+}
+
+#sections {
+  max-width: 100%;
+}
+
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+button {
+  background-color: gold !important;
+  border: 2px solid black !important;
+}
